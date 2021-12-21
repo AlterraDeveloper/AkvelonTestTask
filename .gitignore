@@ -4,6 +4,8 @@ obj/
 .vs/
 TestResults/
 **/packages/*
+Debug/
+Release/
 
 # Exclude standart files
 *.suo
