@@ -1,0 +1,19 @@
+# Exclude standart folder
+bin/
+obj/
+.vs/
+TestResults/
+**/packages/*
+
+# Exclude standart files
+*.suo
+*.user
+*.datasource
+Thumbs.db
+*.key
+*.DotSettings
+**/XmlDocument.xml
+
+/**/.idea/**/*.*
+*.png
+**/_ReSharper.Caches/*
